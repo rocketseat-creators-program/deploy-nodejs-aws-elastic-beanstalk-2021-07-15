@@ -1,0 +1,32 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Deploy de uma aplicação Node.js usando AWS Elastic Beanstalk",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelash/node-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "codepipeline",
+    "beanstalk"
+  ],
+  "author": "Ismael Nascimento 'Ash'",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismaelash/node-api/issues"
+  },
+  "homepage": "https://github.com/ismaelash/node-api#readme"
+}
