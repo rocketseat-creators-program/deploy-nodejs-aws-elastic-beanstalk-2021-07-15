@@ -11,6 +11,6 @@ Nesta aula, iremos criar um pipeline de desenvolvimento, onde veremos CI/CD(Cont
 
 | [<img src="https://avatars.githubusercontent.com/u/19227867?v=4" width="75px;"/>](https://github.com/ismaelash) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                             [Ismael Ash](https://github.com/marcostaborda)                                                             |
+|                                                             [Ismael Ash](https://github.com/ismaelash)                                                             |
 
 TAGS: CI/CD, AWS, Nodejs, AWS Codepipeline, AWS Elastic Beanstalk
